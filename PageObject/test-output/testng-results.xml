@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-23T12:59:49 EDT" name="Suite" finished-at="2021-03-23T12:59:49 EDT" duration-ms="63">
+    <groups>
+      <group name="sanity">
+        <method signature="TestNgGroup.Test1(java.lang.String)[pri:0, instance:Demo.TestNgGroup@2cd2a21f]" name="Test1" class="Demo.TestNgGroup"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2021-03-23T12:59:49 EDT" name="Test" finished-at="2021-03-23T12:59:49 EDT" duration-ms="63">
+      <class name="Demo.TestNgGroup">
+        <test-method signature="Test1(java.lang.String)[pri:0, instance:Demo.TestNgGroup@2cd2a21f]" started-at="2021-03-23T12:59:49 EDT" name="Test1" finished-at="2021-03-23T12:59:49 EDT" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Daler Kaur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- Demo.TestNgGroup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
